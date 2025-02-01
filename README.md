@@ -79,6 +79,10 @@ Before setting up the project, ensure you have the following installed:
     ```
    Your backend will be available at `http://localhost:8000`.
 
+## API Documentation
+
+For detailed API usage, please refer to the [Postman Documentation]([https://www.postman.com/your-username/collection-link](https://documenter.getpostman.com/view/37271849/2sAYX3qibU)) which contains information on the following endpoints:   
+
 ## File Structure
 
 ```The project is structured as follows:
