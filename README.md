@@ -81,7 +81,7 @@ Before setting up the project, ensure you have the following installed:
 
 ## File Structure
 
-The project is structured as follows:
+```The project is structured as follows:
 
 faq_project/
 │── faq_project/          # Main Django project directory
@@ -104,6 +104,7 @@ faq_project/
 │── manage.py             # Django CLI management script
 │── README.md             # Project documentation
 │── requirements.txt      # Dependencies for the project
+```
 
 
 - **backend/**: Contains the main Django project folder and app for FAQs.
