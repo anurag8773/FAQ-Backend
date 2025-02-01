@@ -81,7 +81,7 @@ Before setting up the project, ensure you have the following installed:
 
 ## API Documentation
 
-For detailed API usage, please refer to the [Postman Documentation]([https://www.postman.com/your-username/collection-link](https://documenter.getpostman.com/view/37271849/2sAYX3qibU)) which contains information on the following endpoints:   
+For detailed API usage, please refer to the [Postman Documentation](https://documenter.getpostman.com/view/37271849/2sAYX3qibU) which contains information on the following endpoints:   
 
 ## File Structure
 
