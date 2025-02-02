@@ -1,0 +1,7 @@
+django 
+djangorestframework 
+django-ckeditor 
+django-redis 
+googletrans 
+flake8 
+pytest
