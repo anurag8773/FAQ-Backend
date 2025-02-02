@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-q33s=-+riuzwa)omzpg)bwxy8(#w(duk+q1lv=bbys$86v2*ja
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.vercel.app']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -93,14 +93,12 @@ DATABASES = {
 
 
 #  Implement Caching
-"""
 CACHES = {
     'default': {
         'BACKEND': 'django.core.cache.backends.redis.RedisCache',
         'LOCATION': 'redis://127.0.0.1:6379/1',
     }
 }
-"""
 # Password validation
 # https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators
 
